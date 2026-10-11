@@ -1,0 +1,1 @@
+Its a temporary area where you stage changes before committing them.
